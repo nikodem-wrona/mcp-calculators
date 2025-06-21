@@ -1,21 +1,18 @@
 # MCP Streamable HTTP Server Example
 
-This is an example of an MCP (Model Context Protocol) server that provides a collection of calculator tools. It's built with Express and TypeScript and uses the streamable HTTP transport.
+This is an MCP (Model Context Protocol) server that provides a collection of calculator tools. It's built with Express and TypeScript and uses the streamable HTTP transport.
 
 ## Features
 
 - Streamable HTTP transport with session management.
 - An Ohm's Law calculator tool.
-- Linting with ESLint.
-- Code formatting with Prettier.
 
 ## Getting Started
 
 ### Prerequisites
 
 - Node.js (v18 or later)
-- npm
-
+  
 ### Installation
 
 1.  Clone the repository.
