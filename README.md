@@ -1,5 +1,4 @@
-# MCP Streamable HTTP Server Example
-
+# MCP Calculators
 This is an MCP (Model Context Protocol) server that provides a collection of calculator tools. It's built with Express and TypeScript and uses the streamable HTTP transport.
 
 ## Features
